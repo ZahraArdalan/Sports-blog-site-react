@@ -17,7 +17,7 @@ The goal of this project is to provide sports articles and training tips, with r
 
 ## ⚡ Installation & Running the Project
 
-cd my-sports-blog
-npm install
-npm run dev
-http://localhost:5173
+- cd my-sports-blog
+- npm install
+- npm run dev
+- http://localhost:5173
