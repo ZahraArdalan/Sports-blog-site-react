@@ -8,7 +8,7 @@ The goal of this project is to provide sports articles and training tips, with r
 ## 🌐 Live Demo
 
 👉 [View Live Site](https://sports-blog-site-react.vercel.app/)  
-_(Replace the link above with your GitHub Pages or Vercel/Netlify URL once deployed.)_
+
 
 ---
 
